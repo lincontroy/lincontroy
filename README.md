@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi there 👋, Thanks for stopping by! 😀
 
-<!--
-**lincontroy/lincontroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Lincoln Munene**, a versatile software developer and system architect with expertise in **Laravel, PHP, Android development, AWS, and networking**. I specialize in building **scalable platforms**, integrating **payment solutions**, and optimizing **network infrastructure**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills & Expertise 🛠️**  
+
+- **Backend Development**: Laravel (PHP), RESTful APIs, MySQL, FreeRADIUS ⚙️  
+- **Frontend Development**: Vue.js, HTML, CSS, JavaScript 💻  
+- **Android Development**: Java, Kotlin, QR code scanning, Google ML Kit 📱  
+- **Infrastructure & DevOps**: AWS, VPS (Linux), MikroTik, Networking, CI/CD ☁️  
+- **Payment Integrations**: M-Pesa STK Push, Online Transactions 💰  
+- **Business & Platforms**: P2P Credit Tracking, Learning Management Systems (LMS), Donations & Fundraising 🏦  
+
+---
+
+### **Projects & Open Source 📂**  
+
+- **mDonate** ([mdonate.co.ke](https://mdonate.co.ke)) – A donation platform for seamless contributions. 🌍  
+- **Hire The Car** ([hirethecar.co.ke](https://hirethecar.co.ke)) – Car hire platform in Nairobi. 🚗  
+- **Sichey Automation** – Custom mobility solutions tailored to unique customer needs. 🏭  
+- **P2P CRB System** – A peer-to-peer credit tracking system for lenders. 🏦  
+
+---
+
+### **Looking For 👀**  
+
+- **Collaboration on Laravel, Android, or Networking projects** 🤝  
+- **Consulting opportunities in system architecture, payments, and networking** 💼  
+- **Open to discussing new and exciting opportunities** 🚀  
+
+---
+
+### **Let's Connect 🔗**  
+
+- **Twitter/X**: [@nesh_lincoln](#)  
+- **GitHub**: [github.com/lincontroy](#)  
+- **Portfolio**: [lincolnmunene.co.ke](#)  
+
+⚡ **Fun Fact**: “A well-optimized system is like a well-paved road—efficient, reliable, and built for speed.” 🚀
