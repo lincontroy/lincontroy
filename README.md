@@ -1,12 +1,12 @@
 ### Hi there 👋, Thanks for stopping by! 😀
 
-I'm **Lincoln Munene**, a versatile software developer and system architect with expertise in **Laravel, PHP, Android development, AWS, and networking**. I specialize in building **scalable platforms**, integrating **payment solutions**, and optimizing **network infrastructure**.  
+I'm **Lincoln Munene**, a versatile software developer and system architect with expertise in **Springboot java, Laravel, PHP, Android development, AWS, and networking**. I specialize in building **scalable platforms**, integrating **payment solutions**, and optimizing **network infrastructure**.  
 
 ---
 
 ### **Skills & Expertise 🛠️**  
 
-- **Backend Development**: Laravel (PHP), RESTful APIs, MySQL, FreeRADIUS ⚙️  
+- **Backend Development**: Springboot java, Laravel (PHP), RESTful APIs, MySQL, FreeRADIUS ⚙️  
 - **Frontend Development**: Vue.js, HTML, CSS, JavaScript 💻  
 - **Android Development**: Java, Kotlin, QR code scanning, Google ML Kit 📱  
 - **Infrastructure & DevOps**: AWS, VPS (Linux), MikroTik, Networking, CI/CD ☁️  
