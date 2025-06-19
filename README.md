@@ -13,14 +13,6 @@ I'm **Lincoln Munene**, a versatile software developer and system architect with
 - **Payment Integrations**: M-Pesa STK Push, Online Transactions 💰  
 - **Business & Platforms**: P2P Credit Tracking, Learning Management Systems (LMS), Donations & Fundraising 🏦  
 
----
-
-### **Projects & Open Source 📂**  
-
-- **mDonate** ([mdonate.co.ke](https://mdonate.co.ke)) – A donation platform for seamless contributions. 🌍  
-- **Hire The Car** ([hirethecar.co.ke](https://hirethecar.co.ke)) – Car hire platform in Nairobi. 🚗  
-- **Sichey Automation** – Custom mobility solutions tailored to unique customer needs. 🏭  
-- **P2P CRB System** – A peer-to-peer credit tracking system for lenders. 🏦  
 
 ---
 
