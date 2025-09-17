@@ -1,6 +1,6 @@
 ### Hi there 👋, Thanks for stopping by! 😀
 
-I'm **Lincoln Munene**, a versatile software developer and system architect with expertise in **Springboot java, Laravel, PHP, Android development with java and kotlin, AWS, and networking**. I specialize in building **scalable platforms**, integrating **payment solutions**, and optimizing **network infrastructure**.  
+I'm **Lincoln Munene**, a versatile software developer and system architect with expertise in **Springboot java, Laravel, PHP, Android development with java and kotlin native then Flutter for crossplatform, AWS, and networking**. I specialize in building **scalable platforms**, integrating **payment solutions**, and optimizing **network infrastructure**.  
 
 ---
 
